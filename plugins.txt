@@ -1,2 +1,6 @@
 git:4.0.0
 docker-plugin:1.1.9
+pipeline-model-definition:1.5.0
+command-launcher:1.4
+jdk-tool:1.4
+kubernetes:1.22.3
