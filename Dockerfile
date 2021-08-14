@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.209
+FROM jenkins/jenkins:2.289.3
 
 #install all plugins
 COPY plugins.txt /usr/share/jenkins/ref/plugins.txt
