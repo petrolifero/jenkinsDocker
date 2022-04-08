@@ -1,8 +1,7 @@
 git:4.10.1
 docker-plugin:1.1.9
-pipeline-model-definition:1.9.1
+pipeline-model-definition:2.2064.v5eef7d0982b_e
 command-launcher:1.4
 jdk-tool:1.4
 kubernetes:1.30.1
 configuration-as-code:1346.ve8cfa_3473c94
-locale:1.4

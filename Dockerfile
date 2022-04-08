@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.319.2
+FROM jenkins/jenkins:2.337
 
 ENV CASC_JENKINS_CONFIG /usr/share/jenkins/ref/configuration
 #install all plugins
